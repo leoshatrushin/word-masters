@@ -1,1 +1,1 @@
-# wordy-masters
+# word-masters
